@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 // Import local media files
+// Import local media files
 import localImage from "./assets/wallpaper.jpeg";
 import localImage1 from "./assets/dodge.jpg";
 import localImage2 from "./assets/gwagon.jpg";
